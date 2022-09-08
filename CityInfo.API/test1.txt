@@ -1,0 +1,2 @@
+2022-06-15 16:44:19.218 +08:00 [INF] URL: https://icp-member-stage.icashpay.com.tw/app/Test/GetMemberAuthV?cellphone=0933888666
+2022-06-15 16:44:19.603 +08:00 [INF] AuthV: 11c7dbd2cda1432be244df34c397919beaa382dae6808594125a743e947eebaa23f45031ee1c7e5e8b3289f82ce6050808d83b4b0cd1a842bf0c627293990eb5
